@@ -79,7 +79,7 @@
         <li class="flex items-center">
           <a
             class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
-            href="https://github.com/creativetimofficial/notus-svelte?ref=ns-index-navbar"
+            href="https://github.com/NguyenLeMinhFB/HM-SPA"
             target="_blank"
           >
             <i class="text-blueGray-400 fab fa-github text-lg leading-lg" />
